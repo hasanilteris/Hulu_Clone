@@ -1,6 +1,8 @@
-﻿# Hulu-Clone-Html-Css
+# Hulu Clone
+ 
+## You can view the site [**here.**](https://rawcdn.githack.com/hasanilteris/Hulu-Clone-Project/54fe0656b27550b9f581d5a745cfec54aa805a7f/index.html)
 
-Demo : https://rawcdn.githack.com/hasanilteris/Hulu-Clone-Project/54fe0656b27550b9f581d5a745cfec54aa805a7f/index.html
-
+### -Html5
+### -Css3
 
 ![image](https://user-images.githubusercontent.com/82460438/134988179-827ffa06-446a-4b2d-a017-abc073239450.png)
